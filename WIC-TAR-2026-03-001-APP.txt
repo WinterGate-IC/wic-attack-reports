@@ -1,0 +1,360 @@
+WINTERGATE INTELLIGENCE COLLECTIVE
+OFFICIAL THREAT ASSESSMENT REPORT
+APPENDICES A-D
+TAR-2026-03-001-APP
+
+Document Classification: OFFICIAL // WIC INTERNAL
+Document ID: WIC-TAR-2026-03-001-APP
+Date of Issue: 2026-03-01 21:00 UTC
+Prepared By: Threat Analysis Division
+Verified By: WIC Security Council
+
+
+
+
+
+APPENDIX A: FULL IP MANIFEST
+Complete Dataset with Geolocation and Attempt Counts
+
+IP Address        Origin          Attempts   Type         First Seen           Last Seen           Status
+45.148.10.152     Netherlands     999        Datacenter   2026-02-28 22:15    2026-03-01 16:07    PERMABANNED
+103.61.122.229    Vietnam         29225      Residential  2026-02-28 22:42    2026-03-01 17:29    PERMABANNED
+45.148.10.147     Netherlands     254        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+45.148.10.141     Netherlands     249        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+91.224.92.108     Estonia         228        VPN          2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+91.224.92.78      Estonia         224        VPN          2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+103.53.231.159    Vietnam         222        Residential  2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+91.224.92.190     Estonia         215        VPN          2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+195.178.110.15    Estonia         212        VPN          2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+45.148.10.151     Netherlands     207        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+45.148.10.157     Netherlands     202        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+91.224.92.54      Estonia         193        VPN          2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+150.95.27.209     Japan           181        Residential  2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+193.24.211.202    Germany         161        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+45.148.10.121     Netherlands     156        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+77.90.185.237     Germany         134        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+176.120.22.47     Russia          117        Residential  2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+193.24.211.93     Germany         107        Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+185.93.89.122     Germany         82         Datacenter   2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+172.94.9.56       Canada          82         Residential  2026-02-28 22:42    2026-03-01 16:07    PERMABANNED
+77.90.185.250     Germany         78         Datacenter   2026-02-28 22:59    2026-03-01 16:07    PERMABANNED
+192.253.248.47    United States   78         Residential  2026-02-28 22:59    2026-03-01 16:07    PERMABANNED
+222.73.48.210     China           58         Residential  2026-02-28 22:59    2026-03-01 16:07    PERMABANNED
+2.57.121.112      Romania         35         Residential  2026-02-28 22:59    2026-03-01 16:07    PERMABANNED
+80.94.92.171      Russia          29         Residential  2026-02-28 22:59    2026-03-01 16:07    PERMABANNED
+2.57.121.25       Romania         27         Residential  2026-02-28 22:59    2026-03-01 16:07    PERMABANNED
+45.148.10.192     Netherlands     27         Datacenter   2026-02-28 22:59    2026-03-01 16:07    PERMABANNED
+159.203.14.72     United States   999        Datacenter   2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+162.243.162.24    United States   999        Datacenter   2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+157.245.79.160    United States   999        Datacenter   2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+134.199.172.168   United States   999        Datacenter   2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+64.225.76.125     United States   999        Datacenter   2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+24.199.125.179    United States   999        Datacenter   2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+173.249.45.217    Germany         999        Datacenter   2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+101.126.64.76     United States   999        Residential  2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+103.123.53.88     United States   999        Residential  2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+103.229.125.106   United States   999        Residential  2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+134.122.39.210    United States   999        Residential  2026-03-01 15:10    2026-03-01 17:34    PERMABANNED
+139.59.171.175    United States   134        Datacenter   2026-03-01 15:37    2026-03-01 17:41    PERMABANNED
+188.128.75.50     United States   78         Datacenter   2026-03-01 15:35    2026-03-01 17:42    PERMABANNED
+188.166.181.23    United States   161        Datacenter   2026-03-01 15:33    2026-03-01 17:42    PERMABANNED
+165.227.119.154   United States   134        Datacenter   2026-03-01 15:39    2026-03-01 17:44    PERMABANNED
+209.74.85.39      United States   78         Datacenter   2026-03-01 15:42    2026-03-01 17:44    PERMABANNED
+64.23.174.19      United States   78         Datacenter   2026-03-01 15:23    2026-03-01 17:48    PERMABANNED
+46.101.92.117     United States   134        Datacenter   2026-03-01 16:06    2026-03-01 17:33    PERMABANNED
+167.172.70.222    United States   224        Datacenter   2026-03-01 16:05    2026-03-01 17:26    PERMABANNED
+170.64.236.149    United States   228        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+206.189.134.170   United States   215        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+134.209.189.16    United States   207        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+51.75.141.245     France          134        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+45.153.34.117     Netherlands     222        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+165.227.152.183   United States   181        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+164.92.169.242    United States   202        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+143.110.248.218   United States   212        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+152.32.129.186    United States   254        Datacenter   2026-03-01 16:06    2026-03-01 17:26    PERMABANNED
+178.128.117.19    Vietnam         156        Residential  2026-03-01 16:39    2026-03-01 17:46    PERMABANNED
+212.192.31.244    Netherlands     82         Datacenter   2026-03-01 16:34    2026-03-01 17:49    PERMABANNED
+217.253.115.33    Germany         78         Residential  2026-03-01 16:36    2026-03-01 17:49    PERMABANNED
+59.148.166.26     Hong Kong       58         Residential  2026-03-01 16:19    2026-03-01 17:49    PERMABANNED
+81.23.173.32      Germany         82         Datacenter   2026-03-01 16:22    2026-03-01 17:49    PERMABANNED
+89.252.157.42     Romania         78         Residential  2026-03-01 16:20    2026-03-01 17:49    PERMABANNED
+98.26.115.52      United States   82         Residential  2026-03-01 16:26    2026-03-01 17:49    PERMABANNED
+
+
+
+
+
+APPENDIX B: TEMPORAL ATTACK HEATMAP
+Visual Representation of Attack Timing
+
+Date           Time Window (UTC)    Attempts    Intensity    Attack Phase
+2026-02-28     22:00 - 23:00         8,000      ████████     Initial Surge
+2026-02-28     23:00 - 00:00         7,200      ███████      Building
+
+2026-03-01     00:00 - 01:00         7,500      ███████      Sustained
+2026-03-01     01:00 - 02:00         7,500      ███████      Sustained
+2026-03-01     02:00 - 03:00         6,800      ██████       Declining
+
+2026-03-01     03:00 - 04:00         6,000      ██████       Proxy Wave
+2026-03-01     04:00 - 05:00         6,000      ██████       Proxy Wave
+2026-03-01     05:00 - 06:00         5,200      █████        Decreasing
+
+2026-03-01     06:00 - 07:00         5,000      █████        Datacenter Push
+2026-03-01     07:00 - 08:00         5,000      █████        Datacenter Push
+2026-03-01     08:00 - 09:00         4,500      ████         Leveling
+
+2026-03-01     09:00 - 10:00         4,000      ████         Plateau
+
+2026-03-01     10:00 - 11:00         7,000      ███████      Secondary Peak
+2026-03-01     11:00 - 12:00         7,000      ███████      Secondary Peak
+2026-03-01     12:00 - 13:00         5,500      ██████       Decline
+
+2026-03-01     13:00 - 14:00         4,800      █████        Continued
+
+2026-03-01     14:00 - 15:00         4,500      █████        Final Surge
+2026-03-01     15:00 - 16:00         4,500      █████        Final Surge
+2026-03-01     16:00 - 17:00         2,500      ██           Sharp Decline
+2026-03-01     17:00 - 18:00         2,500      ██           Sharp Decline
+2026-03-01     18:00 - 19:00         1,200      █            Minimal
+2026-03-01     19:00 - 20:00         1,200      █            Minimal
+2026-03-01     20:00 - 21:00         500        ▏            Cessation
+2026-03-01     21:00 - 22:00         200        ▏            Cessation
+
+Peak Hours: 00:00-02:00 (15,000 attempts) and 10:00-12:00 (14,000 attempts)
+Average Intensity (Peak): 7,500 attempts per hour
+Average Intensity (Decline): 2,500 attempts per hour
+Average Intensity (Cessation): <500 attempts per hour
+
+
+
+
+
+APPENDIX C: USERNAME DICTIONARY
+Complete List of Targeted Usernames
+
+Primary Targets (90%+ of all attempts)
+
+root
+admin
+
+Secondary Targets (High Volume)
+
+ubuntu
+user
+ftpuser
+test
+
+Specialized Targets (Medium Volume)
+
+bome
+rm2healthcare
+dinstall
+developer
+oracle
+postgres
+
+Observed Anomalies (Low Volume)
+
+sol
+validator
+tomcat
+pi
+AdminGPON
+user1
+dspace
+merlin
+kafka
+noreply
+gitlab
+www
+
+Complete Username List (Alphabetical Order)
+
+admin
+AdminGPON
+bome
+developer
+dinstall
+dspace
+ftpuser
+gitlab
+kafka
+merlin
+noreply
+oracle
+pi
+postgres
+rm2healthcare
+root
+sol
+test
+tomcat
+ubuntu
+user
+user1
+validator
+www
+
+Username Targeting Frequency
+
+root          ████████████████████████████████████████ (90%+)
+admin         ████████████████████████████ (50%+)
+ubuntu        ████████████ (25%)
+user          ████████ (15%)
+ftpuser       █████ (8%)
+test          ████ (6%)
+bome          ███ (4%)
+rm2healthcare ███ (4%)
+dinstall      ██ (2%)
+developer     ██ (2%)
+oracle        ██ (2%)
+postgres      ██ (2%)
+sol           ▏ (<1%)
+validator     ▏ (<1%)
+tomcat        ▏ (<1%)
+pi            ▏ (<1%)
+AdminGPON     ▏ (<1%)
+user1         ▏ (<1%)
+dspace        ▏ (<1%)
+merlin        ▏ (<1%)
+kafka         ▏ (<1%)
+noreply       ▏ (<1%)
+gitlab        ▏ (<1%)
+www           ▏ (<1%)
+
+
+
+
+
+APPENDIX D: NEW THREAT ACTOR MONITORING
+Real-Time Tracking of Newly Identified IPs
+
+New Threat Actors Detected (Last 24 Hours)
+
+IP Address        Origin          First Seen     Last Seen      Attempts    Status
+61.245.11.236     Singapore       16:40:05       17:35:08       Multiple    MONITORING
+167.99.252.126    United States   16:25:38       17:26:15       Multiple    MONITORING
+164.92.153.65     United States   17:02:21       17:04:40       Multiple    MONITORING
+46.101.219.31     Germany         17:32:48       17:35:10       Multiple    MONITORING
+139.59.6.28       Germany         17:34:38       17:34:41       Single      MONITORING
+209.38.20.67      United States   17:35:29       17:35:29       Single      MONITORING
+167.94.138.190    United States   17:33:15       17:33:15       Single      MONITORING
+
+Detailed Threat Actor Profiles
+
+61.245.11.236
+Origin: Singapore (Residential ISP)
+First Detected: 2026-03-01 16:40:05 UTC
+Target Pattern: Root account SSH bruteforce
+Attack Characteristics: Consistent 3.2s intervals, standard dictionary
+Current Status: Active Monitoring
+Risk Assessment: Medium - Appears to be automated scanner
+Attempt Count: Multiple (exact count pending)
+
+167.99.252.126
+Origin: United States (Digital Ocean Datacenter)
+First Detected: 2026-03-01 16:25:38 UTC
+Target Pattern: Root, noreply, gitlab accounts
+Attack Characteristics: Multi-username probing, datacenter host
+Current Status: Active Monitoring
+Risk Assessment: Medium-High - Coordinated datacenter attacker
+Attempt Count: Multiple (exact count pending)
+
+164.92.153.65
+Origin: United States (Datacenter)
+First Detected: 2026-03-01 17:02:21 UTC
+Target Pattern: Root account
+Attack Characteristics: Persistent retry pattern
+Current Status: Active Monitoring
+Risk Assessment: Medium
+Attempt Count: Multiple (exact count pending)
+
+46.101.219.31
+Origin: Germany (Digital Ocean Datacenter)
+First Detected: 2026-03-01 17:32:48 UTC
+Target Pattern: Root account
+Attack Characteristics: Aggressive timing, short intervals
+Current Status: Active Monitoring
+Risk Assessment: Medium-High
+Attempt Count: Multiple (exact count pending)
+
+139.59.6.28
+Origin: Germany (Digital Ocean Datacenter)
+First Detected: 2026-03-01 17:34:38 UTC
+Target Pattern: Admin account
+Attack Characteristics: Single probe, disconnected quickly
+Current Status: Active Monitoring
+Risk Assessment: Low - Reconnaissance only
+Attempt Count: 1
+
+209.38.20.67
+Origin: United States (Datacenter)
+First Detected: 2026-03-01 17:35:29 UTC
+Target Pattern: Unknown - connection closed
+Attack Characteristics: Connection attempt only, no credentials
+Current Status: Active Monitoring
+Risk Assessment: Low - Reconnaissance
+Attempt Count: 1
+
+167.94.138.190
+Origin: United States (Datacenter)
+First Detected: 2026-03-01 17:33:15 UTC
+Target Pattern: Unknown - connection closed
+Attack Characteristics: Single connection, no follow-up
+Current Status: Active Monitoring
+Risk Assessment: Low - Reconnaissance
+Attempt Count: 1
+
+Emerging Threat Clusters
+
+Cluster A: Digital Ocean Datacenter (167.99.252.126, 46.101.219.31, 139.59.6.28)
+Common Characteristics: Digital Ocean hosting, aggressive timing, shared patterns
+Risk Level: Elevated - Coordinated infrastructure
+
+Cluster B: US-Based Scanners (164.92.153.65, 209.38.20.67, 167.94.138.190)
+Common Characteristics: US hosting, reconnaissance behavior
+Risk Level: Medium - Probing for vulnerabilities
+
+Cluster C: Singapore Anomaly (61.245.11.236)
+Common Characteristics: Residential ISP, persistent scanning
+Risk Level: Medium - Unusual origin, worth monitoring
+
+Monitoring Priority
+
+High Priority
+167.99.252.126 - Active multi-account targeting
+46.101.219.31 - Aggressive timing pattern
+
+Medium Priority
+61.245.11.236 - Persistent residential scanner
+164.92.153.65 - Continued activity observed
+
+Low Priority
+139.59.6.28 - Single probe only
+209.38.20.67 - Reconnaissance only
+167.94.138.190 - Reconnaissance only
+
+Auto-Ban Status
+
+All newly detected IPs are below the 50-attempt threshold for automatic permanent banning. Currently in monitoring status. Will be PERMABANNED upon reaching threshold.
+
+Threshold Progress
+61.245.11.236:     ████████░░░░ (30-40 attempts estimated)
+167.99.252.126:    ████████░░░░ (30-40 attempts estimated)
+164.92.153.65:     ██████░░░░░░ (20-25 attempts estimated)
+46.101.219.31:     ████████░░░░ (30-35 attempts estimated)
+Others:            ██░░░░░░░░░░ (<10 attempts)
+
+
+
+
+
+END OF APPENDICES
+
+Report Prepared By: WinterGate Intelligence Collective // Threat Analysis Division
+Data Verified: 2026-03-01 21:00 UTC
+Next Update: Continuous // As new intelligence emerges
+
+Where the shadows end, and the people stand.
+
+#WICBLOCKED • #PERMABLOCKED • #WINTERGATEIC
