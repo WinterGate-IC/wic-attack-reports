@@ -39,7 +39,7 @@ We request that you:
 2. Terminate their access if the activity continues
 3. Preserve logs for potential law enforcement follow-up
 
-Attached: attack_logs_207.180.222.68.csv
+Attached: attack_logs_207.180.???.??.csv
 
 Thank you for your prompt attention to this security matter.
 
