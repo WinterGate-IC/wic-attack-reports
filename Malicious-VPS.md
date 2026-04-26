@@ -1,0 +1,48 @@
+TO: abuse@contabo.com
+SUBJECT: URGENT - Ongoing Cyberattack from Contabo IP 207.180.222.68 (vmi3235708.contaboserver.net)
+
+Dear Contabo Abuse Team,
+
+We are writing to report a sustained, multi-week cyberattack campaign originating from a server within your network.
+
+**ATTACKER INFRASTRUCTURE:**
+- IP Address: 207.180.222.68
+- Hostname: vmi3235708.contaboserver.net
+- ISP: Contabo GmbH
+- Location: Germany (hosted in France)
+
+**ATTACK DETAILS:**
+- Duration: April 19, 2026 – Present (ongoing)
+- Total Attacks: 17,000+ from this IP alone
+- Attack Rate: 288+ attempts per minute (sustained)
+- Victim: wintergate.org (144.172.110.90)
+
+**ATTACK METHODS (MITRE ATT&CK):**
+- T1110 – SSH Brute Force (Credential Harvesting)
+- T1202 – Command Injection (Code Execution Attempts)
+
+**IMPACT ON OUR INFRASTRUCTURE:**
+- All attacks have been successfully blocked
+- Zero data breaches
+- Zero service disruption
+
+**WHY THIS REQUIRES YOUR ACTION:**
+The individual operating this server is conducting an active, aggressive cyberattack campaign. Based on the volume, persistence, and attack patterns, this is not a misconfigured service—it is deliberate malicious activity.
+
+We have attached a CSV file containing a sample of attack logs from this IP address, including timestamps and attack types.
+
+**REQUESTED ACTION:**
+Please investigate this customer's server activity. Under Contabo's Terms of Service, this constitutes prohibited abusive behavior (hacking, brute force attacks, unauthorized access attempts).
+
+We request that you:
+1. Notify the customer of this violation
+2. Terminate their access if the activity continues
+3. Preserve logs for potential law enforcement follow-up
+
+Attached: attack_logs_207.180.222.68.csv
+
+Thank you for your prompt attention to this security matter.
+
+Respectfully,
+WinterGate Intelligence Collective
+Security Team
